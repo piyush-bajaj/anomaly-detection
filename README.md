@@ -13,5 +13,5 @@ Similar code was used for a competition (R & S Engineering Competition 2022) whe
 The certificate achieved as part of the above mentioned competition is present in the repository as pdf.
 
 The YOLOv5 model version 5l is used in this project to train and detect the objects.
-Refer to image.jpeg to see the kind of input and example.json to see the label format provided for training.
+Refer to image.jpeg to see the kind of input (conversion to microwave not present) and example.json to see the label format provided for training.
 The initial weights used for training are provided in weights folder.
